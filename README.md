@@ -1,7 +1,7 @@
 <div align="center">
 
  
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Wonseon&fontSize=200&fontColor=00000000&stroke=00FF00)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Wonseon&fontSize=200&fontColor=00000000&stroke=000000)
 
 <div>
 <img src="https://img.shields.io/badge/Java-000000?logo=Java&logoColor=white" />
